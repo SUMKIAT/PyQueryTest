@@ -1,6 +1,6 @@
 html = '''
-<div>
-    <ul>
+<div id="container">
+    <ul class="list">
          <li class="item-0">first item</li>
          <li class="item-1"><a href="link2.html">second item</a></li>
          <li class="item-0 active"><a href="link3.html"><span class="bold">third item</span></a></li>
